@@ -1,0 +1,141 @@
+Sexo,Edad,Nivel Estudios,Sector,Perfil,Windows,Intereses,Twitter,Inglés
+Masculino,Entre 25 y 34 años,Grado,Financiero,Analista / programador,Sí,Análisis,No,Avanzado
+Masculino,Más de 44 años,Postgrado,Tecnología,Directivo,No,Técnico,Sí,Avanzado
+Masculino,Entre 35 y 44 años,Grado (1r ciclo),Sanitario,Administrativo,Sí,Gestión,No,Intermedio
+Masculino,Entre 35 y 44 años,Grado,Financiero,Analista / programador,Sí,Gestión,No,Básico
+Femenino,Entre 25 y 34 años,Máster,Financiero,Administrativo,Sí,Análisis,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Tecnología,Analista / programador,Sí,Análisis,No,Básico
+Femenino,Entre 35 y 44 años,Grado,Tecnología,Analista / programador,No,Análisis,No,Avanzado
+Masculino,Entre 35 y 44 años,Grado (1r ciclo),Financiero,Administrativo,Sí,Análisis,Sí,Intermedio
+Masculino,Entre 25 y 34 años,Grado,Financiero,Analista / programador,Sí,Análisis,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Tecnología,Analista / programador,Sí,Técnico,No,Avanzado
+Femenino,Entre 35 y 44 años,Postgrado,Administración,Directivo,Sí,Análisis,No,Básico
+Femenino,Entre 25 y 34 años,Grado,Financiero,Técnico,Sí,Análisis,No,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Tecnología,Analista / programador,Sí,Análisis,Sí,Avanzado
+Masculino,Entre 35 y 44 años,Grado (1r ciclo),Tecnología,Analista / programador,Sí,Análisis,Sí,Avanzado
+Femenino,Entre 35 y 44 años,Máster,Financiero,Otros,Sí,Gestión,Sí,Intermedio
+Masculino,Más de 44 años,Grado (1r ciclo),Financiero,Analista / programador,Sí,Gestión,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Comercial,Técnico,Sí,Técnico,Sí,Intermedio
+Masculino,Entre 35 y 44 años,Máster,Comercial,Administrativo,Sí,Análisis,No,Avanzado
+Masculino,Entre 35 y 44 años,Grado,Otros,Científico,Sí,Análisis,No,Intermedio
+Masculino,Entre 25 y 34 años,Otros,Tecnología,Técnico,Sí,Técnico,Sí,Avanzado
+Femenino,Más de 44 años,Máster,Tecnología,Directivo,Sí,Análisis,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Tecnología,Otros,Sí,Gestión,Sí,Avanzado
+Femenino,Entre 25 y 34 años,Grado,Tecnología,Analista / programador,Sí,Análisis,Sí,Intermedio
+Masculino,Más de 44 años,Otros,Tecnología,Directivo,Sí,Análisis,Sí,Avanzado
+Masculino,Hasta 24 años,Grado,Tecnología,Analista / programador,Sí,Análisis,No,Avanzado
+Femenino,Entre 25 y 34 años,Grado,Otros,Administrativo,Sí,Gestión,No,Intermedio
+Femenino,Entre 25 y 34 años,Grado,Comercial,Científico,Sí,Análisis,No,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Investigación,Analista / programador,Sí,Análisis,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Tecnología,Analista / programador,No,Gestión,Sí,Avanzado
+Femenino,Entre 25 y 34 años,Grado,Comercial,Analista / programador,Sí,Análisis,Sí,Avanzado
+Masculino,Entre 35 y 44 años,Grado (1r ciclo),Tecnología,Analista / programador,Sí,Técnico,No,Intermedio
+Masculino,Entre 25 y 34 años,Grado,Tecnología,Analista / programador,Sí,Técnico,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Tecnología,Analista / programador,Sí,Técnico,Sí,Intermedio
+Masculino,Entre 25 y 34 años,Grado,Tecnología,Analista / programador,Sí,Técnico,Sí,Intermedio
+Masculino,Entre 25 y 34 años,Grado,Tecnología,Analista / programador,Sí,Técnico,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Máster,Secundario,Analista / programador,Sí,Gestión,Sí,Avanzado
+Masculino,Más de 44 años,Máster,Tecnología,Directivo,Sí,Análisis,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado (1r ciclo),Tecnología,Técnico,Sí,Técnico,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Secundario,Técnico,Sí,Técnico,Sí,Avanzado
+Masculino,Entre 35 y 44 años,Máster,Financiero,Otros,Sí,Análisis,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Financiero,Analista / programador,Sí,Análisis,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Financiero,Administrativo,Sí,Técnico,Sí,Intermedio
+Masculino,Entre 35 y 44 años,Grado (1r ciclo),Tecnología,Administrativo,Sí,Gestión,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Investigación,Otros,Sí,Análisis,No,Avanzado
+Masculino,Entre 35 y 44 años,Máster,Financiero,Directivo,Sí,Análisis,Sí,Avanzado
+Femenino,Entre 35 y 44 años,Grado,Administración,Otros,Sí,Análisis,No,Intermedio
+Femenino,Entre 25 y 34 años,Grado,Comercial,Administrativo,Sí,Análisis,Sí,Avanzado
+Masculino,Entre 35 y 44 años,Grado (1r ciclo),Administración,Analista / programador,Sí,Análisis,No,Avanzado
+Masculino,Entre 35 y 44 años,Grado (1r ciclo),Tecnología,Analista / programador,Sí,Técnico,Sí,Intermedio
+Masculino,Entre 35 y 44 años,Doctorado,Investigación,Científico,Sí,Análisis,No,Avanzado
+Masculino,Hasta 24 años,Grado,Tecnología,Analista / programador,Sí,Análisis,Sí,Intermedio
+Masculino,Entre 35 y 44 años,Máster,Secundario,Directivo,Sí,Análisis,No,Avanzado
+Masculino,Entre 25 y 34 años,Máster,Tecnología,Directivo,Sí,Análisis,No,Avanzado
+Masculino,Entre 35 y 44 años,Máster,Tecnología,Directivo,Sí,Gestión,Sí,Avanzado
+Masculino,Entre 35 y 44 años,Grado,Tecnología,Directivo,Sí,Gestión,Sí,Avanzado
+Masculino,Entre 35 y 44 años,Grado (1r ciclo),Tecnología,Analista / programador,Sí,Análisis,No,Básico
+Masculino,Entre 35 y 44 años,Grado (1r ciclo),Tecnología,Analista / programador,Sí,Análisis,No,Intermedio
+Masculino,Entre 35 y 44 años,Doctorado,Otros,Otros,Sí,Análisis,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Tecnología,Administrativo,Sí,Análisis,Sí,Avanzado
+Femenino,Hasta 24 años,Grado,Investigación,Científico,No,Técnico,Sí,Avanzado
+Femenino,Entre 35 y 44 años,Máster,Tecnología,Directivo,Sí,Análisis,No,Intermedio
+Masculino,Entre 25 y 34 años,Grado (1r ciclo),Financiero,Administrativo,Sí,Análisis,Sí,Intermedio
+Femenino,Entre 25 y 34 años,Máster,Tecnología,Analista / programador,Sí,Análisis,No,Avanzado
+Masculino,Entre 25 y 34 años,Doctorado,Otros,Científico,Sí,Análisis,Sí,Intermedio
+Masculino,Entre 35 y 44 años,Grado,Otros,Otros,Sí,Análisis,Sí,Intermedio
+Masculino,Entre 35 y 44 años,Máster,Tecnología,Directivo,Sí,Gestión,No,Avanzado
+Masculino,Más de 44 años,Grado (1r ciclo),Financiero,Analista / programador,Sí,Técnico,No,Intermedio
+Masculino,Entre 25 y 34 años,Grado,Sanitario,Técnico,Sí,Análisis,Sí,Intermedio
+Masculino,Entre 35 y 44 años,Grado,Tecnología,Técnico,Sí,Análisis,Sí,Intermedio
+Masculino,Más de 44 años,Otros,Otros,Analista / programador,Sí,Análisis,No,Avanzado
+Masculino,Entre 35 y 44 años,Grado,Tecnología,Directivo,Sí,Gestión,Sí,Avanzado
+Femenino,Entre 35 y 44 años,Grado,Tecnología,Técnico,Sí,Técnico,No,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Tecnología,Analista / programador,Sí,Análisis,No,Avanzado
+Masculino,Entre 25 y 34 años,Grado (1r ciclo),Tecnología,Analista / programador,Sí,Gestión,No,Intermedio
+Masculino,Más de 44 años,Máster,Financiero,Directivo,Sí,Análisis,Sí,Avanzado
+Masculino,Más de 44 años,Grado,Tecnología,Otros,Sí,Análisis,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Máster,Tecnología,Analista / programador,Sí,Análisis,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado (1r ciclo),Tecnología,Analista / programador,Sí,Análisis,Sí,Intermedio
+Masculino,Entre 25 y 34 años,Grado,Tecnología,Analista / programador,Sí,Análisis,Sí,Intermedio
+Masculino,Más de 44 años,Grado,Tecnología,Analista / programador,Sí,Análisis,No,Intermedio
+Masculino,Entre 35 y 44 años,Grado,Sanitario,Administrativo,Sí,Análisis,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Tecnología,Analista / programador,Sí,Técnico,No,Intermedio
+Masculino,Más de 44 años,Grado,Financiero,Directivo,Sí,Análisis,No,Avanzado
+Masculino,Más de 44 años,Máster,Secundario,Directivo,Sí,Gestión,No,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Secundario,Técnico,Sí,Análisis,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Máster,Comercial,Administrativo,Sí,Análisis,Sí,Intermedio
+Masculino,Más de 44 años,Grado,Financiero,Directivo,Sí,Análisis,Sí,Intermedio
+Masculino,Entre 25 y 34 años,Otros,Financiero,Analista / programador,Sí,Técnico,No,Básico
+Femenino,Entre 35 y 44 años,Grado,Tecnología,Analista / programador,Sí,Análisis,No,Intermedio
+Femenino,Entre 35 y 44 años,Grado,Sanitario,Analista / programador,Sí,Gestión,Sí,Intermedio
+Masculino,Entre 35 y 44 años,Máster,Investigación,Administrativo,Sí,Gestión,Sí,Intermedio
+Femenino,Más de 44 años,Grado,Secundario,Directivo,Sí,Análisis,Sí,Intermedio
+Masculino,Entre 35 y 44 años,Máster,Financiero,Directivo,Sí,Análisis,No,Intermedio
+Masculino,Entre 35 y 44 años,Grado,Secundario,Administrativo,Sí,Análisis,No,Básico
+Femenino,Entre 25 y 34 años,Grado,Comercial,Analista / programador,Sí,Análisis,Sí,Avanzado
+Femenino,Entre 35 y 44 años,Grado,Financiero,Otros,Sí,Análisis,No,Intermedio
+Masculino,Entre 25 y 34 años,Grado (1r ciclo),Tecnología,Analista / programador,Sí,Análisis,Sí,Intermedio
+Masculino,Más de 44 años,Grado,Tecnología,Analista / programador,Sí,Análisis,Sí,Básico
+Masculino,Más de 44 años,Grado (1r ciclo),Otros,Administrativo,Sí,Análisis,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Tecnología,Analista / programador,Sí,Técnico,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Máster,Otros,Otros,Sí,Análisis,Sí,Intermedio
+Masculino,Entre 35 y 44 años,Grado,Administración,Científico,Sí,Análisis,Sí,Intermedio
+Femenino,Entre 25 y 34 años,Máster,Otros,Técnico,Sí,Técnico,Sí,Intermedio
+Femenino,Entre 35 y 44 años,Máster,Otros,Científico,Sí,Análisis,No,Intermedio
+Femenino,Más de 44 años,Máster,Financiero,Técnico,Sí,Análisis,No,Avanzado
+Masculino,Entre 25 y 34 años,Máster,Tecnología,Analista / programador,Sí,Técnico,Sí,Avanzado
+Masculino,Entre 35 y 44 años,Máster,Investigación,Científico,Sí,Análisis,No,Intermedio
+Masculino,Entre 25 y 34 años,Grado,Tecnología,Analista / programador,Sí,Técnico,No,Intermedio
+Masculino,Entre 35 y 44 años,Grado,Tecnología,Directivo,Sí,Gestión,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Máster,Secundario,Directivo,Sí,Técnico,Sí,Avanzado
+Masculino,Entre 35 y 44 años,Grado,Investigación,Científico,Sí,Análisis,Sí,Intermedio
+Masculino,Más de 44 años,Grado (1r ciclo),Tecnología,Directivo,Sí,Gestión,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Tecnología,Analista / programador,Sí,Análisis,Sí,Intermedio
+Masculino,Entre 35 y 44 años,Máster,Otros,Otros,Sí,Gestión,Sí,Avanzado
+Masculino,Entre 35 y 44 años,Grado (1r ciclo),Tecnología,Analista / programador,Sí,Técnico,Sí,Intermedio
+Masculino,Entre 35 y 44 años,Grado (1r ciclo),Financiero,Analista / programador,Sí,Gestión,No,Básico
+Femenino,Entre 25 y 34 años,Grado,Tecnología,Directivo,Sí,Gestión,Sí,Intermedio
+Masculino,Entre 25 y 34 años,Máster,Financiero,Analista / programador,Sí,Análisis,Sí,Avanzado
+Femenino,Más de 44 años,Doctorado,Sanitario,Directivo,No,Gestión,No,Intermedio
+Femenino,Entre 35 y 44 años,Grado,Tecnología,Analista / programador,Sí,Análisis,Sí,Intermedio
+Masculino,Entre 25 y 34 años,Grado,Financiero,Otros,Sí,Gestión,Sí,Avanzado
+Masculino,Entre 35 y 44 años,Grado,Comercial,Administrativo,Sí,Técnico,Sí,Intermedio
+Masculino,Entre 25 y 34 años,Máster,Financiero,Analista / programador,Sí,Análisis,No,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Tecnología,Administrativo,Sí,Análisis,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Tecnología,Analista / programador,Sí,Análisis,Sí,Intermedio
+Femenino,Hasta 24 años,Grado,Otros,Analista / programador,Sí,Análisis,Sí,Básico
+Masculino,Entre 25 y 34 años,Grado (1r ciclo),Financiero,Analista / programador,Sí,Técnico,Sí,Intermedio
+Masculino,Entre 35 y 44 años,Grado (1r ciclo),Administración,Administrativo,Sí,Técnico,Sí,Intermedio
+Masculino,Entre 35 y 44 años,Grado,Secundario,Otros,Sí,Análisis,No,Avanzado
+Femenino,Entre 25 y 34 años,Máster,Otros,Administrativo,No,Gestión,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado,Comercial,Analista / programador,Sí,Análisis,No,Básico
+Masculino,Más de 44 años,Grado,Tecnología,Directivo,Sí,Gestión,No,Intermedio
+Masculino,Entre 35 y 44 años,Grado,Tecnología,Otros,Sí,Análisis,Sí,Avanzado
+Femenino,Entre 35 y 44 años,Máster,Administración,Científico,Sí,Análisis,No,Intermedio
+Masculino,Entre 35 y 44 años,Máster,Tecnología,Directivo,Sí,Gestión,Sí,Avanzado
+Masculino,Hasta 24 años,Grado,Tecnología,Analista / programador,Sí,Gestión,Sí,Avanzado
+Masculino,Entre 25 y 34 años,Grado (1r ciclo),Secundario,Técnico,Sí,Técnico,Sí,Intermedio
+Masculino,Entre 35 y 44 años,Grado (1r ciclo),Tecnología,Analista / programador,No,Análisis,Sí,Básico
+Masculino,Entre 25 y 34 años,Grado,Financiero,Directivo,Sí,Gestión,Sí,Intermedio
+Femenino,Entre 35 y 44 años,Grado,Financiero,Otros,Sí,Análisis,No,Básico
